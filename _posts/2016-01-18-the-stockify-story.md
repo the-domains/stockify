@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-18T17:24:21.400Z'
+datePublished: '2016-01-18T17:24:21.521Z'
 dateModified: '2016-01-18T17:23:24.997Z'
 title: The Stockify Story
 author: []
