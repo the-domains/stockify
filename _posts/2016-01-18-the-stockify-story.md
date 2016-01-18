@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-18T17:55:12.891Z'
-dateModified: '2016-01-18T17:55:08.366Z'
+datePublished: '2016-01-18T18:26:57.501Z'
+dateModified: '2016-01-18T18:21:59.358Z'
 title: The Stockify Story
 author: []
 sourcePath: _posts/2016-01-18-the-stockify-story.md
@@ -24,7 +24,7 @@ _type: Article
 ---
 # The Stockify Story
 
-> Or how to make cookies
+**Or how to make cookies**
 
 Once upon a time, on a planet in the Orion spiral of the Milky Way Galaxy, the dominant life form, called human beings, developed commerce and trading and needed to sell stuff. They learnt to record all this commerce and trade using tallies and ledgers which they scratched onto animal bones or tablets of clay.
 
@@ -42,4 +42,4 @@ They'd have enough jam, but not enough flour.  Or they'd find out at the last mi
 
 ## So we invented Stockify. Inventory Management Made Simple.
 
-> We believe in a task based approach that's a logical extension of everything else you do. Put in your suppliers, put in your parts, add in the recipes for the things you make. Order your stock and receive it when it comes in. When you make stuff, automatically adjust your inventory levels. When you sell stuff automatically adjust your stock of finished goods.
+We believe in a task based approach that's a logical extension of everything else you do. Put in your suppliers, put in your parts, add in the recipes for the things you make. Order your stock and receive it when it comes in. When you make stuff, automatically adjust your inventory levels. When you sell stuff automatically adjust your stock of finished goods.
