@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-18T18:26:57.743Z'
-dateModified: '2016-01-18T18:21:59.358Z'
+datePublished: '2016-01-19T11:53:38.821Z'
+dateModified: '2016-01-19T11:53:19.504Z'
 title: The Stockify Story
 author: []
 sourcePath: _posts/2016-01-18-the-stockify-story.md
@@ -18,8 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: the-stockify-story/index.html
-_type: Article
+_type: Blurb
 
 ---
 # The Stockify Story
@@ -42,4 +42,17 @@ They'd have enough jam, but not enough flour.  Or they'd find out at the last mi
 
 ## So we invented Stockify. Inventory Management Made Simple.
 
-We believe in a task based approach that's a logical extension of everything else you do. Put in your suppliers, put in your parts, add in the recipes for the things you make. Order your stock and receive it when it comes in. When you make stuff, automatically adjust your inventory levels. When you sell stuff automatically adjust your stock of finished goods.
+We believe in a task based approach that's a logical extension of everything else you do. 
+
+* Put in your suppliers, put in your parts.
+* Add in the recipes for the things you make.
+* Order your stock and receive it when it's delivered.
+* When you make stuff, we automatically adjust your inventory levels.
+* When you sell stuff we automatically adjust your stock levels
+* We automatically update your accounts.
+
+Because tallies and ledgers are boring and we want you to be able to focus on your business and  customers rather than administration.
+
+For access to Stockify head on over to our [beta site][0] now and get yor name on the list.
+
+[0]: https://stockify.biz/
