@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-19T11:53:38.821Z'
-dateModified: '2016-01-19T11:53:19.504Z'
+datePublished: '2016-01-19T11:55:54.503Z'
+dateModified: '2016-01-19T11:55:49.652Z'
 title: The Stockify Story
 author: []
 sourcePath: _posts/2016-01-18-the-stockify-story.md
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: Blurb
+url: the-stockify-story/index.html
+_type: Article
 
 ---
 # The Stockify Story
