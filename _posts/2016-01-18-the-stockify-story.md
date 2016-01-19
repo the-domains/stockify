@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-19T20:32:25.897Z'
-dateModified: '2016-01-19T20:32:22.324Z'
+datePublished: '2016-01-19T21:21:06.270Z'
+dateModified: '2016-01-19T21:21:03.136Z'
 title: The Stockify Story
 author: []
 sourcePath: _posts/2016-01-18-the-stockify-story.md
@@ -33,12 +33,12 @@ Shortly afterwards they had their first great industrial revolution where they f
 
 So the people had another industrial revolution and invented computers and software. Now they could write all their tallies and ledgers using the computers. Although computers were expensive, they weren't as expensive as people, and as long as you gave them correct instructions they didn't get bored or make mistakes.
 
-Now they could make cookies! They could sell millions them to the furthers reaches of the globe and never worry about how many clerks might be needed to tally it all because the computers and software would do all of that boring and tedious work.
+Now they could make cookies! They could sell millions of them to the furthest reaches of the globe and never worry about how many clerks might be needed to tally it all up because the computers and software would do all of that boring and tedious work.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ee838b3a-541c-4b7f-8d58-c39608ce1814.jpg)
 
 But now they had another problem. Whilst they could make and sell cookies by the gazillion, they couldn't control all the bits and bobs they needed to make the cookies.
 
-They'd have enough jam, but not enough flour.  Or they'd find out at the last minute that they had enough flour and jam but the butter was out of date. And the cookie jars they needed still hadn't been made. So they invented Inventory Management to solve these problems. But the trouble was that all the inventory management software was horrible. It was made for computer programmers to use not for clerks and production managers. 
+They'd have enough jam, but not enough flour.  Or they'd find out at the last minute that they had enough flour and jam but the butter was out of date. And the cookie jars they needed still hadn't been made. So they invented Inventory Management to solve these problems. But the trouble was that all the inventory management software was horrible. It was made for computer programmers to use, not for clerks and production managers. 
 
 ## So we invented Stockify. Inventory Management Made Simple.
 
