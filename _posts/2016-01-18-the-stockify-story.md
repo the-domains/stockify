@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-19T11:55:54.611Z'
-dateModified: '2016-01-19T11:55:49.652Z'
+datePublished: '2016-01-19T14:40:35.378Z'
+dateModified: '2016-01-19T11:57:54.082Z'
 title: The Stockify Story
 author: []
 sourcePath: _posts/2016-01-18-the-stockify-story.md
@@ -53,6 +53,6 @@ We believe in a task based approach that's a logical extension of everything els
 
 Because tallies and ledgers are boring and we want you to be able to focus on your business and  customers rather than administration.
 
-For access to Stockify head on over to our [beta site][0] now and get yor name on the list.
+For access to Stockify head on over to our [beta site][0] now and get your name on the list.
 
 [0]: https://stockify.biz/
