@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-19T14:40:35.378Z'
-dateModified: '2016-01-19T11:57:54.082Z'
+datePublished: '2016-01-19T20:32:25.849Z'
+dateModified: '2016-01-19T20:32:22.324Z'
 title: The Stockify Story
 author: []
 sourcePath: _posts/2016-01-18-the-stockify-story.md
@@ -55,4 +55,4 @@ Because tallies and ledgers are boring and we want you to be able to focus on yo
 
 For access to Stockify head on over to our [beta site][0] now and get your name on the list.
 
-[0]: https://stockify.biz/
+[0]: https://stockify.biz/index.html
