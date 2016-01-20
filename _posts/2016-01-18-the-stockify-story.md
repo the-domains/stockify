@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-20T16:19:16.665Z'
-dateModified: '2016-01-20T16:19:11.731Z'
+datePublished: '2016-01-20T16:55:29.605Z'
+dateModified: '2016-01-20T16:55:26.241Z'
 title: The Stockify Story
 author: []
 sourcePath: _posts/2016-01-18-the-stockify-story.md
@@ -38,7 +38,9 @@ Now they could make cookies! They could sell millions of them to the furthest re
 
 But now they had another problem. Whilst they could make and sell cookies by the gazillion, they couldn't control all the bits and bobs they needed to make the cookies.
 
-They'd have enough jam, but not enough flour.  Or they'd find out at the last minute that they had enough flour and jam but the butter was out of date. And the cookie jars they needed still hadn't been made. So they invented Inventory Management to solve these problems. But the trouble was that all the inventory management software was horrible. It was made for computer programmers to use, not for clerks and production managers. 
+They'd have enough jam, but not enough flour or find out at the last minute that the butter was out of date. And the cookie jars they needed still hadn't been made. 
+
+So they invented Inventory Management to solve these problems. But the trouble was that all the Inventory Management software was horrible; it was made for computer programmers, not clerks and production managers!
 
 ## So we invented Stockify. Inventory Management Made Simple.
 
@@ -48,11 +50,11 @@ We believe in a task based approach that's a logical extension of everything els
 * Add in the recipes for the things you make.
 * Order your stock and receive it when it's delivered.
 * When you make stuff, we automatically adjust your inventory levels.
-* When you sell stuff we automatically adjust your stock levels
+* When you sell stuff, we automatically adjust your stock levels
 * We automatically update your accounts.
 
 Because tallies and ledgers are boring and we want you to be able to focus on your business and  customers rather than administration.
 
-For access to Stockify head on over to our [beta site][0] now and get your name on the list.
+For access to Stockify, head on over to our [beta site][0] now and get your name on the list.
 
 [0]: https://stockify.biz/index.html
