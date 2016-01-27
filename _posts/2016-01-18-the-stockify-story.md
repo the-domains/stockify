@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-20T19:38:54.828Z'
-dateModified: '2016-01-20T19:38:50.544Z'
+datePublished: '2016-01-27T09:16:35.784Z'
+dateModified: '2016-01-27T09:16:27.980Z'
 title: The Stockify Story
 author: []
 sourcePath: _posts/2016-01-18-the-stockify-story.md
