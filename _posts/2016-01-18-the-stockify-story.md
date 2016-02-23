@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-23T16:30:12.941Z'
-dateModified: '2016-02-23T16:29:53.974Z'
+datePublished: '2016-02-23T16:32:07.430Z'
+dateModified: '2016-02-23T16:30:23.123Z'
 title: The Stockify Story
 author: []
 sourcePath: _posts/2016-01-18-the-stockify-story.md
