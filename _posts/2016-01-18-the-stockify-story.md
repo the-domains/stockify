@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-23T16:37:51.750Z'
-dateModified: '2016-02-23T16:37:30.238Z'
+datePublished: '2016-02-24T16:39:54.256Z'
+dateModified: '2016-02-24T16:39:28.158Z'
 title: The Stockify Story
 author: []
 sourcePath: _posts/2016-01-18-the-stockify-story.md
@@ -44,7 +44,9 @@ So they invented Inventory Management to solve these problems. But the trouble w
 
 ## So we invented Stockify. Inventory Management Made Simple.
 
-We believe in a task based approach that's a logical extension of everything else you do. Put in your suppliers, put in your parts.
+We believe in a task based approach that's a logical extension of everything else you do. 
+
+* Put in your suppliers, put in your parts.
 
 * Add in the recipes for the things you make.
 
@@ -52,9 +54,7 @@ We believe in a task based approach that's a logical extension of everything els
 
 * When you make stuff, we automatically adjust your inventory levels.
 
-When you sell stuff, we automatically adjust your stock levels.
-
-We automatically update your accounts.
+* When you sell stuff, we automatically adjust your stock levels.
 
 Because tallies and ledgers are boring and we want you to be able to focus on your business and  customers rather than administration.
 
